@@ -1,6 +1,6 @@
 # Frontend Blog App
 
-This is a simple frontend blog application built with Next.js, TypeScript, and TailwindCSS. It connects to a server-side API built with Node.js, Express, and SQLite, to display and manage blog posts.
+This is a simple frontend blog application built with Next.js, TypeScript, and TailwindCSS. It connects to a [server-side API built with Node.js, Express, and SQLite](https://github.com/philip-bos/blog-app-backend.git), to display and manage blog posts.
 
 ## Features
 
