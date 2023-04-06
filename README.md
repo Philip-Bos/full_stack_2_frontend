@@ -44,11 +44,11 @@ This will start the Next.js development server.
 
 You can now view the frontend application in your browser.
 
-Technologies
+## Technologies
 This frontend application uses the following technologies:
 
-Next.js
-TypeScript
-TailwindCSS
-Credits
+- Next.js
+- TypeScript
+- TailwindCSS
+## Credits
 This project was created as a coding challenge for the Match community onboarding process.
