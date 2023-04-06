@@ -1,6 +1,6 @@
 # Frontend Blog App
 
-This is a simple frontend blog application built with Next.js, TypeScript, and TailwindCSS. It connects to a [server-side API built with Node.js, Express, and SQLite](https://github.com/philip-bos/blog-app-backend.git), to display and manage blog posts.
+This is a simple frontend blog application built with Next.js, TypeScript, and TailwindCSS. It connects to a [server-side API built with Node.js, Express, and SQLite](https://github.com/Philip-Bos/full_stack_2_backend), to display and manage blog posts.
 
 ## Features
 
@@ -15,7 +15,7 @@ This is a simple frontend blog application built with Next.js, TypeScript, and T
 To get started with the frontend application, clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/philip-bos/frontend-blog-app.git
+git clone https://github.com/Philip-Bos/full_stack_2_frontend.git
 cd frontend-blog-app
 ```
 Next, install the dependencies:
